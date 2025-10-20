@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HaikalRiyadh.HaikalRiyadh" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hallo!+👋;+I'm+Haikal+Riyadh!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Haikal+Riyadh!;" />
 </h1>
 
 <h3 align="center">A passionate Web Developer and Informatics Engineering student from Indonesia 🇮🇩</h3>
@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **to become a Full Stack Developer**
 
- 💬 Ask me about **MySQL, Flutter, Web Development, Java, or C++**
+ 💬 Ask me about **MySQL, JavaScript, Java, C++, PHP, CSS, HTML, or Flutter**
 
  ⚡ Fun fact: **Always honest**
 
@@ -40,18 +40,17 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,flutter,mysql,java,cpp,vscode,git,github,figma,laravel,tailwind,react" />
+  <img src="https://skillicons.dev/icons?i=mysql,js,java,cpp,php,css,html,flutter,vscode,git,github,figma" />
 </div>
 
 <br/>
 <hr/>
 
-<<div align="center">
+<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/HaikalRiyadh/HaikalRiyadh/main/assets/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/HaikalRiyadh/HaikalRiyadh/main/dist/github-contribution-grid-snake.svg" />
 </div>
-
 
 <br/><br/>
 <hr/>

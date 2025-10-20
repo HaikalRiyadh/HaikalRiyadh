@@ -1,16 +1,26 @@
 name: Generate Snake Animation
 
+# Bisa dijalankan manual dan terjadwal
 on:
   schedule:
-    - cron: "0 0 * * *"   # jalan tiap tengah malam UTC
-  workflow_dispatch:       # bisa kamu jalankan manual dari tab Actions
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+# Berikan permission write supaya push bisa dilakukan
+permissions:
+  contents: write
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4
+        with:
+          # pastikan action dapat menggunakan GITHUB_TOKEN untuk push
+          persist-credentials: true
+          fetch-depth: 0
 
       - name: Generate snake animation
         uses: Platane/snk@v3
@@ -20,9 +30,14 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 
-      - name: Push generated files to main branch
+      - name: Show dist files (for debug)
+        run: ls -la dist || true
+
+      - name: Commit and push generated files
         uses: EndBug/add-and-commit@v9
         with:
+          # gunakan token bawaan GitHub Actions
+          github_token: ${{ secrets.GITHUB_TOKEN }}
           author_name: "github-actions[bot]"
           author_email: "github-actions[bot]@users.noreply.github.com"
           message: "Generate contribution snake"

@@ -46,11 +46,12 @@
 <br/>
 <hr/>
 
-<div align="center">
+<<div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/HaikalRiyadh/HaikalRiyadh/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/HaikalRiyadh/HaikalRiyadh/main/assets/github-contribution-grid-snake.svg" />
 </div>
+
 
 <br/><br/>
 <hr/>

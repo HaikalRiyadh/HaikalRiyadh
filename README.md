@@ -40,7 +40,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,js,java,cpp,php,css,html,flutter,vscode,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=mysql,js,java,cpp,php,css,html,flutter,androidstudio,vscode,git,github,figma" />
 </div>
 
 <br/>
@@ -49,7 +49,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake animation" src="https://raw.githubusercontent.com/HaikalRiyadh/HaikalRiyadh/main/dist/github-contribution-grid-snake.svg" />
+<img alt="snake animation" src="https://raw.githubusercontent.com/HaikalRiyadh/HaikalRiyadh/output/github-contribution-grid-snake.svg" />
 </div>
 
 <br/><br/>

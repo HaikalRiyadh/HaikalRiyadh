@@ -9,7 +9,6 @@
 <br/>
 
 <div align="center">
-A passionate Web Developer and Informatics Engineering student from Jakarta Global University, Indonesia 🇮🇩.
 I specialize in developing modern, responsive, and efficient web applications using PHP, JavaScript, MySQL, HTML, CSS, C++, and Java. I’m currently deepening my skills in Full Stack Development and exploring Flutter for cross-platform app development.
 
 Currently, I’m working on a Scrum Collaboration Management project that focuses on team productivity and agile workflow optimization.

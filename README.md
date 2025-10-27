@@ -9,14 +9,18 @@
 <br/>
 
 <div align="center">
+## 🧠 About Me:
+---
+ A passionate **Web Developer** and **Informatics Engineering student** from **Jakarta Global University, Indonesia 🇮🇩**.  
+I love building modern, responsive, and efficient web applications using **PHP**, **JavaScript**, **MySQL**, **HTML**, **CSS**, **C++**, and **Java**.  
+Currently, I'm expanding my skills in **Full Stack Development** and exploring **Flutter** for mobile and cross-platform development.
 
- 🔭 I’m currently working on **a Scrum Collaboration Management project**
- 
- 🌱 I’m currently learning **to become a Full Stack Developer**
+💼 **Current Project:** Scrum Collaboration Management – focusing on team productivity and agile workflow optimization.  
+🚀 **Goals:** To master scalable web architecture and become a professional Full Stack Developer.  
+💡 **Interests:** Web Development, Mobile Apps, and Cloud Technologies.  
 
- 💬 Ask me about **MySQL, JavaScript, Java, C++, PHP, CSS, HTML, or Flutter**
+I believe in **continuous learning**, **writing clean code**, and **bringing ideas to life through technology**.
 
- ⚡ Fun fact: **Always honest**
 
 </div>
 

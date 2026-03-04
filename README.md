@@ -38,7 +38,7 @@ I believe in continuous learning, collaboration, and building impactful software
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,js,java,cpp,php,css,html,flutter,androidstudio,vscode,git,github,figma" />
+  <img src="https://skillicons.dev/icons?i=mysql,js,java,cpp,php,css,html,flutter,androidstudio,vscode,git,github,laravel,dart" />
 </div>
 
 <br/>

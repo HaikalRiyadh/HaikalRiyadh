@@ -98,11 +98,6 @@ My goal is to keep growing as a developer and build software that is useful, sca
 
 <br/>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="random dev quote" />
-</div>
-
-<br/>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=40&duration=4000&lines=Thanks+for+visiting!+✌️;+Feel+free+to+connect+with+me!;+Let's+build+something+amazing+together!+🚀" />

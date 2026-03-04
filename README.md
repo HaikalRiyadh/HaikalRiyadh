@@ -1,20 +1,26 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HaikalRiyadh.HaikalRiyadh" />
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hallo!+👋;+I'm+Haikal+Riyadh!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+👋;+I'm+Haikal+Riyadh!;" />
 </h1>
 
-<h3 align="center">A passionate Web Developer and Informatics Engineering student from Indonesia 🇮🇩</h3>
+<h3 align="center">Informatics Engineering Student & Passionate Software Developer from Indonesia 🇮🇩</h3>
 
 <br/>
 
 <div align="center">
-I specialize in developing modern, responsive, and efficient web applications using PHP, JavaScript, MySQL, HTML, CSS, C++, and Java. I’m currently deepening my skills in Full Stack Development and exploring Flutter for cross-platform app development.
 
-Currently, I’m working on a Scrum Collaboration Management project that focuses on team productivity and agile workflow optimization.
-I enjoy writing clean, maintainable code and continuously learning new technologies to improve my craft.
+I am an Informatics Engineering student who enjoys building software and exploring modern technologies.
 
-I believe in continuous learning, collaboration, and building impactful software that makes people’s lives easier.
+My primary focus is **web development**, where I work with technologies such as **PHP, JavaScript, MySQL, HTML, CSS, and Laravel** to develop responsive and efficient web applications.
+
+I also have experience with **Java and C++** for programming fundamentals and system logic, and I am currently exploring **Flutter** to expand my skills in cross-platform mobile development.
+
+Currently, I am developing a **Scrum Collaboration Management System**, a project designed to improve team productivity and support agile development workflows.
+
+I enjoy writing **clean, structured, and maintainable code**, while continuously learning new technologies and improving my software development skills.
+
+My goal is to keep growing as a developer and build software that is useful, scalable, and impactful.
 
 </div>
 
@@ -32,7 +38,24 @@ I believe in continuous learning, collaboration, and building impactful software
   </a>
 </div>
 
-<hr/>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br/>
+
+<h2 align="center">🏆 GitHub Trophies 🏆</h2>
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HaikalRiyadh&theme=react&no-frame=true&no-bg=true&margin-w=6&row=1" alt="trophies" />
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br/>
 
 <h2 align="center">⚒️ Languages - Frameworks - Tools ⚒️</h2>
 <br/>
@@ -42,16 +65,22 @@ I believe in continuous learning, collaboration, and building impactful software
 </div>
 
 <br/>
-<hr/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-<img alt="snake animation" src="https://raw.githubusercontent.com/HaikalRiyadh/HaikalRiyadh/output/github-contribution-grid-snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/HaikalRiyadh/HaikalRiyadh/output/github-contribution-grid-snake.svg" />
 </div>
 
-<br/><br/>
-<hr/>
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br/>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br/>
@@ -61,6 +90,35 @@ I believe in continuous learning, collaboration, and building impactful software
   <img width=390 src="https://github-readme-stats-salesp07.vercel.app/api?username=HaikalRiyadh&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=HaikalRiyadh&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10" alt="top langs" />
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br/>
+
+<h2 align="center">📈 Activity Graph 📈</h2>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaikalRiyadh&theme=react-dark&bg_color=20232a&hide_border=true&area=true" alt="activity graph" />
+</div>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<br/>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="random dev quote" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=20&center=true&vCenter=true&width=500&height=40&duration=4000&lines=Thanks+for+visiting!+✌️;+Feel+free+to+connect+with+me!;+Let's+build+something+amazing+together!+🚀" />
 </div>
 
 

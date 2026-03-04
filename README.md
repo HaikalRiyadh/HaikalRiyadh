@@ -98,19 +98,6 @@ My goal is to keep growing as a developer and build software that is useful, sca
 
 <br/>
 
-<h2 align="center">📈 Activity Graph 📈</h2>
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=HaikalRiyadh&theme=react-dark&bg_color=20232a&hide_border=true&area=true" alt="activity graph" />
-</div>
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
-
-<br/>
-
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="random dev quote" />
 </div>

@@ -33,9 +33,6 @@ My goal is to keep growing as a developer and build software that is useful, sca
   <a href="https://www.linkedin.com/in/haikalriyadhr" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://haikalriyadh.github.io" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
 </div>
 
 <br/>

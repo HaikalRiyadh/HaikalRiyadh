@@ -58,7 +58,47 @@ My goal is to keep growing as a developer and build software that is useful, sca
 <br/>
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,js,java,cpp,php,css,html,flutter,androidstudio,vscode,git,github,laravel,dart" />
+  <img src="https://skillicons.dev/icons?i=js,java,cpp,php,dart,html,css,react,nodejs,express,laravel,tailwind,flutter,mysql,sqlite,expo,git,github,vscode,androidstudio" />
+</div>
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <th align="center">💻 Languages</th>
+      <th align="center">🧩 Frameworks</th>
+      <th align="center">🛠️ Tools</th>
+    </tr>
+    <tr>
+      <td align="center">
+        JavaScript<br/>
+        PHP<br/>
+        Java<br/>
+        C++<br/>
+        Dart<br/>
+        HTML5<br/>
+        CSS3
+      </td>
+      <td align="center">
+        React<br/>
+        Node.js<br/>
+        Express.js<br/>
+        Laravel<br/>
+        Flutter<br/>
+        Tailwind CSS
+      </td>
+      <td align="center">
+        MySQL<br/>
+        SQLite<br/>
+        Expo<br/>
+        Git<br/>
+        GitHub<br/>
+        VS Code<br/>
+        Android Studio
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>

@@ -33,6 +33,9 @@ My goal is to keep growing as a developer and build software that is useful, sca
   <a href="https://www.linkedin.com/in/haikalriyadhr" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  <a href="https://portofolio-haikal-pi.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
 </div>
 
 <br/>
@@ -45,7 +48,7 @@ My goal is to keep growing as a developer and build software that is useful, sca
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HaikalRiyadh&theme=react&no-frame=true&no-bg=true&margin-w=6&row=1&column=-1" alt="trophies" />
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=HaikalRiyadh&theme=react&no-frame=true&no-bg=true&margin-w=6&row=1&column=-1" alt="trophies" />
 </div>
 
 <br/>
